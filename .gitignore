@@ -1,0 +1,9 @@
+*.pdb
+*.suo
+*.sln
+*.sdf
+/DerivedDataCache
+/Intermediate
+/Saved
+/Binaries
+FPS_C.opensdf
